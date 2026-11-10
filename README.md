@@ -43,7 +43,7 @@ Marks are equally weighted. The provisional grading scale is A ≥90, B ≥80, C
 
 Data is temporary and is not saved to a database or browser storage. Reloading clears the form. Font loading uses Google Fonts with local sans-serif fallbacks; calculations do not depend on that service.
 
-## Verify
+## Run tests and build
 
 ```powershell
 npm test
